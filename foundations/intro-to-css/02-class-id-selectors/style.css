@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+.red-text {
+    background-color: #cb7373;
+    font-family: Verdana, "Dejavu Sans" sans-serif
+}
